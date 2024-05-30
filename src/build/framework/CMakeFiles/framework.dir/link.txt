@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/lvqiang/vscodepro/lightning-futures/bin/libframework_d.a  CMakeFiles/framework.dir/bar_generator.cpp.o CMakeFiles/framework.dir/price_step.cpp.o CMakeFiles/framework.dir/engine.cpp.o CMakeFiles/framework.dir/evaluate_engine.cpp.o CMakeFiles/framework.dir/runtime_engine.cpp.o CMakeFiles/framework.dir/strategy.cpp.o
+/usr/bin/ranlib /home/lvqiang/vscodepro/lightning-futures/bin/libframework_d.a

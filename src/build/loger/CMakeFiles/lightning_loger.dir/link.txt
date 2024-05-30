@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -g  -shared -Wl,-soname,liblightning_loger_d.so -o liblightning_loger_d.so CMakeFiles/lightning_loger.dir/log_wapper.cpp.o CMakeFiles/lightning_loger.dir/nanolog.cpp.o  -L/home/lvqiang/vscodepro/lightning-futures/src/../bin 
